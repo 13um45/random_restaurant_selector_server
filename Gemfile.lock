@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/13um45/random_restaurant_selector
+  remote: git://github.com/13um45/random_restaurant_selector.git
   revision: b3f3720021f1c2dbd8f31ceedef24a214a65b9a5
   specs:
     random_restaurant_selector (0.1.0)
