@@ -1,6 +1,16 @@
+GIT
+  remote: https://github.com/13um45/random_restaurant_selector
+  revision: b3f3720021f1c2dbd8f31ceedef24a214a65b9a5
+  specs:
+    random_restaurant_selector (0.1.0)
+      httparty (~> 0.15.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
+    httparty (0.15.6)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.6.0)
     mustermann (1.0.1)
     rack (2.0.3)
     rack-protection (2.0.0)
@@ -16,6 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  random_restaurant_selector!
   sinatra
 
 RUBY VERSION
